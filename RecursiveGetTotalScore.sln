@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveGetTotalScore", "RecursiveGetTotalScore\RecursiveGetTotalScore.csproj", "{BCDC3E5E-EB89-4DA4-B473-0E8B4AB31C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDC3E5E-EB89-4DA4-B473-0E8B4AB31C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDC3E5E-EB89-4DA4-B473-0E8B4AB31C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDC3E5E-EB89-4DA4-B473-0E8B4AB31C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDC3E5E-EB89-4DA4-B473-0E8B4AB31C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30304B70-0C5E-4EF5-9773-D15D98BF3947}
+	EndGlobalSection
+EndGlobal
